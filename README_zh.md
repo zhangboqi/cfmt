@@ -2,6 +2,7 @@
 
 ![Apache license](https://img.shields.io/badge/license-Apache%202-blue)
 ![Go Version](https://img.shields.io/badge/go%20version-%3E%3D1.16-brightgreen)
+
 [README](README.md) | [中文文档](README_zh.md)
 
 一款轻量级的在终端上输出彩色文本的封装库
