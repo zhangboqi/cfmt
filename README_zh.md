@@ -4,14 +4,14 @@
 ![Go Version](https://img.shields.io/badge/go%20version-%3E%3D1.16-brightgreen)
 [README](README.md) | [中文文档](README_zh.md)
 
-A lightweight packaging library for outputting color text on the terminal
+一款轻量级的在终端上输出彩色文本的封装库
 
-## Install
+## 安装
 ```
 go get github.com/zhangboqi/cfmt
 ```
 
-## Usage
+## 使用
 ```golang
 package main
 import "github.com/zhangboqi/cfmt"
@@ -29,7 +29,7 @@ func main(){
 }
 ```
 
-## Custom
+## 自定义方式
 ```golang
 
 package main
